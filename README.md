@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rupan
+- 👋 Hi guys, I’m Rupan
 - 👀 I’m interested in problem solving and competitive programming though i am slow as turtle
 
 <!---
