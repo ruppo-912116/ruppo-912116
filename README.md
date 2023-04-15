@@ -1,4 +1,4 @@
-- 👋 Hi guys, I’m Rupan
+- 👋 Hi guys, I’m a frontend developer proficient in nextjs, reactjs, react native.
 - 👀 I’m interested in problem solving and competitive programming.
 
 <!---
