@@ -8,7 +8,7 @@ Hello! I'm Ruppo, a passionate developer focused on creating innovative solution
 
 - 🔭 I’m currently working on: pdf editor as a full stack developer
 - 🌱 I’m currently learning: e2e testing
-- 👯 I’m looking to collaborate on: [N/A
+- 👯 I’m looking to collaborate on: nothing currently
 - 🤔 I’m looking for help with: N/A
 - 💬 Ask me about: any topics you like to discuss on
 - 📫 How to reach me: via linkedin url
@@ -20,14 +20,6 @@ Hello! I'm Ruppo, a passionate developer focused on creating innovative solution
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruppo-912116&layout=compact&theme=radical)
-
-## Projects
-
-### [Project 1](https://github.com/ruppo-912116/PROJECT_1)
-Description of project 1.
-
-### [Project 2](https://github.com/ruppo-912116/PROJECT_2)
-Description of project 2.
 
 ## Connect with Me
 
