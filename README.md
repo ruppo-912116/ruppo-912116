@@ -10,7 +10,7 @@ Hello! I'm Rupan, a passionate developer focused on creating innovative solution
 - 🌱 I’m currently learning system architecture design 
 - 👯 I’m looking to collaborate on any kind of interesting projects
 - 💬 Ask me about: any topics you like to discuss on
-- 📫 How to reach me: via linkedin url
+- 📫 Feel free to reach out to me on newruppo123@gmail.com
 
 ## GitHub Stats
 
