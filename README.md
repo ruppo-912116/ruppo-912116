@@ -14,7 +14,7 @@ Hello! I'm Rupan, a passionate developer focused on creating innovative solution
 
 ## GitHub Stats
 
-![Rupan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruppo-912116&show_icons=true&theme=radical)
+![Rupan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruppo-912116&show_icons=true&theme=radical&v=1)
 
 ## Top Languages
 
