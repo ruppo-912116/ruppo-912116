@@ -14,7 +14,7 @@ Hello! I'm Rupan, a passionate developer focused on creating innovative solution
 
 ## GitHub Stats
 
-![Ruppo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruppo-912116&show_icons=true&theme=radical)
+![Rupan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruppo-912116&show_icons=true&theme=radical)
 
 ## Top Languages
 
@@ -25,7 +25,5 @@ Hello! I'm Rupan, a passionate developer focused on creating innovative solution
 [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:newruppo123@gmail.com)
 
 ## Contributions
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ruppo-912116&theme=react-dark&hide_border=true&area=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ruppo-912116&theme=radical)
