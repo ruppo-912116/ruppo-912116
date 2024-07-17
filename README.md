@@ -23,7 +23,6 @@ Hello! I'm Rupan, a passionate developer focused on creating innovative solution
 
 ## Connect with Me
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/not-2-c377474?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
 [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:newruppo123@gmail.com)
 
 ## Contributions
