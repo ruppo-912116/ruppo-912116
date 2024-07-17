@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hello! I'm Ruppo, a passionate developer focused on creating innovative solutions with code. I enjoy working on challenging projects and continuously improving my skills.
+Hello! I'm Rupan, a passionate developer focused on creating innovative solutions with code. I enjoy working on challenging projects and continuously improving my skills.
 
 - 🔭 I’m currently working on: pdf editor as a full stack developer
 - 🌱 I’m currently learning: e2e testing
@@ -23,15 +23,8 @@ Hello! I'm Ruppo, a passionate developer focused on creating innovative solution
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
-## Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-N/A 
-<!-- BLOG-POST-LIST:END -->
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/not-2-c377474?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
+[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:newruppo123@gmail.com)
 
 ## Contributions
 
