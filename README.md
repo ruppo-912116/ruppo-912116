@@ -26,4 +26,4 @@ Hello! I'm Rupan, a passionate developer focused on creating innovative solution
 
 ## Contributions
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ruppo-912116&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ruppo-912116&theme=radical&v=1)
