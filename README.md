@@ -12,10 +12,6 @@ Hello! I'm Rupan, a passionate developer focused on creating innovative solution
 - 💬 Ask me about: any topics you like to discuss on
 - 📫 Feel free to reach out to me on newruppo123@gmail.com
 
-## GitHub Stats
-
-![Rupan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruppo-912116&show_icons=true&theme=radical&v=2)
-
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruppo-912116&layout=compact&theme=radical)
@@ -26,4 +22,4 @@ Hello! I'm Rupan, a passionate developer focused on creating innovative solution
 
 ## Contributions
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ruppo-912116&theme=radical&v=1)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ruppo-912116&theme=radical&v=2)
