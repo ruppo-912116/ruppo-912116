@@ -6,8 +6,7 @@
 
 Hello! I'm Rupan, a passionate developer focused on creating innovative solutions with code. I enjoy working on challenging projects and continuously improving my skills.
 
-- 🔭 I’m currently working on: pdf editor as a full stack developer
-- 🌱 I’m currently learning system architecture design 
+- 🔭 I’m currently working on: Editing software as a full stack developer 
 - 👯 I’m looking to collaborate on any kind of interesting projects
 - 💬 Ask me about: any topics you like to discuss on
 - 📫 Feel free to reach out to me on newruppo123@gmail.com
