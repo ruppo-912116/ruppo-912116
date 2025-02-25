@@ -26,14 +26,13 @@ width=50
 />
 A little about me</h2>
 
-```json
+```
 const rupan = {
     pronouns: "Not yours",
     architecture: ["microservices", "event-driven", "design system patterns"],
     challenge: "I am currently working on some editing software.",
     hobbies: ["Futsal", "Dance"],
 }
-
 ```
 
 ## Top Languages
@@ -41,7 +40,7 @@ const rupan = {
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruppo-912116&layout=compact&theme=radical)
 
 <h2>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGU0cmx2azRwcDkwdXV3dWM0Z3FwOGM5YXRlanhidzFjM3QyeTZkdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/feQRYLoruyjguhLjK1/giphy.gif" width="30">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGU0cmx2azRwcDkwdXV3dWM0Z3FwOGM5YXRlanhidzFjM3QyeTZkdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/feQRYLoruyjguhLjK1/giphy.gif" width="40">
 Connect with me</h2>
 
 <p align="center">
@@ -60,7 +59,7 @@ Connect with me</h2>
 
 
 <h2>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2VhbXdtbDFhOHlheXhkY2R4NnpjZDVzaGViejJocjNtNHNsZzlpdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CwTvSiWflgCGKgz5eb/giphy.gif" width=30/> 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2VhbXdtbDFhOHlheXhkY2R4NnpjZDVzaGViejJocjNtNHNsZzlpdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CwTvSiWflgCGKgz5eb/giphy.gif" width="30"/> 
 Contributions
 </h2>
 
