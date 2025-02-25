@@ -8,7 +8,7 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXB2eDh0bDNpdXlsaHFncmV6b
 Rupan, I am 😎
 </h1>
 
-<i>I am but a humble servant of the digital realm, a **Full Stack** artificer by trade, skilled in the ancient arts of code and creation. With many moons spent in the service of both backend and frontend, I craft wondrous systems, all for the betterment of mankind. My name is Rupan, and I seek to bring forth solutions, solving complex riddles with the sharpness of mind and the swiftness of hand. Presently, I ply my craft at [Sireto Technology](https://sireto.io), where I contribute to the advancement of digital innovation.</i>
+<i>Upon the grand stage of [Sireto Technology](https://sireto.io), I dost weave the web of **Full Stack** sorcery, crafting wonders both seen and unseen</i>
 
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
