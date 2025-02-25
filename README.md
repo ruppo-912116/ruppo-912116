@@ -8,8 +8,7 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXB2eDh0bDNpdXlsaHFncmV6b
 Rupan, I am 😎
 </h1>
 
-
-<i>Full stack developer at [Sireto Technology](https://sireto.io)</i>
+<i>A **Full Stack** smith am I, in noble service to [Sireto Technology](https://sireto.io)</i>
 
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
