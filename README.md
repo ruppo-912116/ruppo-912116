@@ -31,7 +31,7 @@ const rupan = {
     pronouns: "Not yours",
     architecture: ["microservices", "event-driven", "design system patterns"],
     challenge: "I am currently working on some editing software.",
-    hobbies: ["Futsal", "Dance"]
+    hobbies: ["Futsal", "Dance"],
 }
 
 ```
@@ -59,6 +59,9 @@ Connect with me</h2>
 </p>
 
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2VhbXdtbDFhOHlheXhkY2R4NnpjZDVzaGViejJocjNtNHNsZzlpdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CwTvSiWflgCGKgz5eb/giphy.gif" width=40/> Contributions
+<h2>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2VhbXdtbDFhOHlheXhkY2R4NnpjZDVzaGViejJocjNtNHNsZzlpdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CwTvSiWflgCGKgz5eb/giphy.gif" width=30/> 
+Contributions
+</h2>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ruppo-912116&theme=radical&v=2)
