@@ -29,8 +29,9 @@ A little about me</h2>
 const rupan = {
     pronouns: "He/him",
     architecture: ["microservices", "event-driven", "design system patterns"],
-    challenge: "I am currently working on some editing software.",
-    hobbies: ["Futsal", "Dance"]
+    focus: "I am currently working on some editing software",
+    hobbies: ["Futsal", "Dance"],
+    secrets: 912116 🤭
 }
 ```
 
