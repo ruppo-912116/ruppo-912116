@@ -27,10 +27,10 @@ A little about me</h2>
 
 ```
 const rupan = {
-    pronouns: "Not yours",
+    pronouns: "He/him",
     architecture: ["microservices", "event-driven", "design system patterns"],
     challenge: "I am currently working on some editing software.",
-    hobbies: ["Futsal", "Dance"],
+    hobbies: ["Futsal", "Dance"]
 }
 ```
 
