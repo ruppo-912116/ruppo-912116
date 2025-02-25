@@ -45,7 +45,7 @@ Connect with me
 </h2>
 
 <p align="center">
-  <a href="https://darkwood.com"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a>
+  <a href="https:ruppo-912116.github.io"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a>
   <a href="mailto:newruppo123@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <a href="www.linkedin.com/in/rupan555"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://discordapp.com/users/985734636573442058"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
