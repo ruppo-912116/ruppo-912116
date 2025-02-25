@@ -5,9 +5,9 @@ Hey, I am Rupan!
 
 <img 
 align="right"
-src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmtnazR0Z3Y1dWVyNzdyd3M3M2t6cjFlbjdvNHhnNm9tZmRsMWo1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zyxa1g6A6FIw9HDE5b/giphy.gif" 
+src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmtnazR0Z3Y1dWVyNzdyd3M3M2t6cjFlbjdvNHhnNm9tZmRsMWo1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zyxa1g6A6FIw9HDE5b/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXB2eDh0bDNpdXlsaHFncmV6bjV0d28xbjU2empxejBmdmszcmZ3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w6TZfG2ab2w7hP241a/giphy.gif" 
      width="300" 
-     style="border-radius: 50%; display: block;">
+     style="border-radius:50%; display: block;">
 
 
 <i>Full stack developer at [Sireto Technology](https://sireto.io)</i>
@@ -49,7 +49,6 @@ Connect with me</h2>
   <a href="www.linkedin.com/in/rupan555"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://discordapp.com/users/985734636573442058"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
   <a href="https://www.reddit.com/user/rupan"><img src="https://img.icons8.com/color/96/000000/reddit.png" alt="reddit"/></a>
-  <a href="https://soundcloud.com/djmatyo91"><img src="https://img.icons8.com/color/96/000000/soundcloud.png" alt="soundcloud"/></a>
   <a href="https://medium.com/@newruppo123"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
   <a href="https://open.spotify.com/user/rupan"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>
   <a href="https://stackoverflow.com/users/20894489/andrew-jordan"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a>
@@ -59,7 +58,7 @@ Connect with me</h2>
 
 
 <h2>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2VhbXdtbDFhOHlheXhkY2R4NnpjZDVzaGViejJocjNtNHNsZzlpdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CwTvSiWflgCGKgz5eb/giphy.gif" width="30"/> 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2VhbXdtbDFhOHlheXhkY2R4NnpjZDVzaGViejJocjNtNHNsZzlpdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CwTvSiWflgCGKgz5eb/giphy.gif" width="40"/> 
 Contributions
 </h2>
 
