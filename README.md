@@ -29,8 +29,7 @@ const rupan = {
     pronouns: "He/him",
     architecture: ["microservices", "event-driven", "design system patterns"],
     focus: "I am currently working on some editing software",
-    hobbies: ["Futsal", "Dance"],
-    secrets: 912116 🤭
+    hobbies: ["Futsal", "Dance"]
 }
 ```
 
