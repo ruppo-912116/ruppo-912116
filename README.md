@@ -1,7 +1,7 @@
 <img 
 align="right"
 src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXB2eDh0bDNpdXlsaHFncmV6bjV0d28xbjU2empxejBmdmszcmZ3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w6TZfG2ab2w7hP241a/giphy.gif" 
-     width="250">
+     width="200">
 
 <h1>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40"/>
