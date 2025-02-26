@@ -59,4 +59,4 @@ Connect with me
 Contributions
 </h2>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ruppo-912116&theme=gruvbox&v=3)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ruppo-912116&theme=transparent&v=3)
