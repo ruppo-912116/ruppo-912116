@@ -43,14 +43,12 @@ Connect with me
 </h2>
 
 <p align="center">
-  <a href="https://ruppo-912116.github.io"><img src="https://img.icons8.com/fluent/96/000000/domain.png" target="_blank" alt="personal"/></a>
   <a href="mailto:newruppo123@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <a href="www.linkedin.com/in/rupan555"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://discordapp.com/users/985734636573442058"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
   <a href="https://medium.com/@newruppo123"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
   <a href="https://stackoverflow.com/users/20894489/andrew-jordan"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a>
   <a href="https://www.producthunt.com/@andrew_jordan3"><img src="https://img.icons8.com/ios-glyphs/96/product-hunt.png" alt="producthunt"/></a>
-  <a href="https://www.chess.com/member/yaboiRupan"><img src="https://img.icons8.com/color/96/knight.png" alt="chess"/></a>
 </p>
 
 
