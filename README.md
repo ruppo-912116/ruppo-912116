@@ -57,4 +57,4 @@ Connect with me
 Contributions
 </h2>
 
-[![GitHub Streak](https://github-readme-streak-stats-tan-two.vercel.app?user=ruppo-912116&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-git-main-rupan-chaulagains-projects.vercel.app?user=ruppo-912116)](https://git.io/streak-stats)
