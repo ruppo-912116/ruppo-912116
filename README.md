@@ -59,8 +59,7 @@ Contributions
 
 [![GitHub Streak](https://github-readme-streak-stats-git-main-rupan-chaulagains-projects.vercel.app?user=ruppo-912116)](https://git.io/streak-stats)
 
-
-
+```
                     ***********************
                *********************************
            *******   *     *       *    *    *******
@@ -83,3 +82,5 @@ Contributions
             ********                         *******
                *********************************
                     ***********************
+
+```
