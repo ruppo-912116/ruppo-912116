@@ -5,7 +5,7 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXB2eDh0bDNpdXlsaHFncmV6b
 
 <h1>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40"/>
-Rupan, I am 😎
+Rupan Chaulagain
 </h1>
 
 <i> I dost weave the web of **Full Stack** sorcery, crafting wonders both seen and unseen</i>
