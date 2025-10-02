@@ -58,3 +58,6 @@ Contributions
 </h2>
 
 [![GitHub Streak](https://github-readme-streak-stats-git-main-rupan-chaulagains-projects.vercel.app?user=ruppo-912116)](https://git.io/streak-stats)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ruppo-912116)](https://github.com/ruppo-912116/github-profile-trophy)
