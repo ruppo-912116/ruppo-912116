@@ -10,13 +10,15 @@ Rupan Chaulagain
 
 <i> I dost weave the web of **Full Stack** sorcery, crafting wonders both seen and unseen</i>
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)
 
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
-![SpringBoot](https://img.shields.io/badge/Framework-Springboot-informational?style=flat&logo=springboot&color=F7DF1E)
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
-![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&color=000000)
-![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
-![Profile Views](https://komarev.com/ghpvc/?username=ruppo-912116&color=blue)
+
 
 <h2> 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnpzc3R3cnM5aWs3azR5a2VxcG9zMzd1MWZtNHQzYXhyc2QwNzNvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/k76eCxLAYwyjyFXClf/giphy.gif"
