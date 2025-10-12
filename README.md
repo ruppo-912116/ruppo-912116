@@ -1,7 +1,7 @@
-<img 
+<!-- <img 
 align="right"
 src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXB2eDh0bDNpdXlsaHFncmV6bjV0d28xbjU2empxejBmdmszcmZ3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w6TZfG2ab2w7hP241a/giphy.gif" 
-     width="200">
+     width="200"> -->
 
 <h1>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40"/>
@@ -56,8 +56,5 @@ Connect with me
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2VhbXdtbDFhOHlheXhkY2R4NnpjZDVzaGViejJocjNtNHNsZzlpdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CwTvSiWflgCGKgz5eb/giphy.gif" width="40"/> 
 Contributions
 </h2>
-
-[![GitHub Streak](https://github-readme-streak-stats-git-main-rupan-chaulagains-projects.vercel.app?user=ruppo-912116)](https://git.io/streak-stats)
-
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ruppo-912116)](https://github.com/ruppo-912116/github-profile-trophy)
