@@ -26,13 +26,21 @@ width=50
 />
 A little about me</h2>
 
-```
-const rupan = {
-    pronouns: "He/him",
-    architecture: ["microservices", "event-driven", "design system patterns"],
-    focus: "I am currently working on some editing software",
-    hobbies: ["Futsal", "Dance"]
-}
+```bash
+> whoami
+Rupan Chaulagain
+
+> work --stack fullstack
+⚙️  TypeScript | Django | Spring Boot | Next.js  
+🗄️  PostgreSQL | Linux  
+
+> interests
+🎯  Building scalable systems  
+🎨  Creating intuitive UIs  
+⚽  Futsal • 💃 Dance
+
+> status
+Currently brewing an editing software ☕
 ```
 
 <h2>
