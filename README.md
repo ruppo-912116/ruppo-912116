@@ -33,10 +33,6 @@ const rupan = {
 }
 ```
 
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruppo-912116&layout=compact&theme=radical)
-
 <h2>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXlncDM2N2V0Z2R4YzUyY2Z2em5sZGZ1bnBndjJycXU1dXJtZDIzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jOz35yxbuhvVQDKrce/giphy.gif" width="30">
 Connect with me
