@@ -8,7 +8,7 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXB2eDh0bDNpdXlsaHFncmV6b
 Rupan Chaulagain
 </h1>
 
-<i> I dost weave the web of **Full Stack** sorcery, crafting wonders both seen and unseen</i>
+<i> I am a backend developer with fair amount of frontend knowledge(Nextjs). I mostly work with Django and Spring boot based on requirements.</i>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -17,31 +17,6 @@ Rupan Chaulagain
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)
-
-
-
-<h2> 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnpzc3R3cnM5aWs3azR5a2VxcG9zMzd1MWZtNHQzYXhyc2QwNzNvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/k76eCxLAYwyjyFXClf/giphy.gif"
-width=50
-/>
-A little about me</h2>
-
-```bash
-> whoami
-Rupan Chaulagain
-
-> work --stack fullstack
-⚙️  TypeScript | Django | Spring Boot | Next.js  
-🗄️  PostgreSQL | Linux  
-
-> interests
-🎯  Building scalable systems  
-🎨  Creating intuitive UIs  
-⚽  Futsal • 💃 Dance
-
-> status
-Currently brewing an editing software ☕
-```
 
 <h2>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXlncDM2N2V0Z2R4YzUyY2Z2em5sZGZ1bnBndjJycXU1dXJtZDIzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jOz35yxbuhvVQDKrce/giphy.gif" width="30">
