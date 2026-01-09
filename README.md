@@ -8,7 +8,7 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXB2eDh0bDNpdXlsaHFncmV6b
 Rupan Chaulagain
 </h1>
 
-<i> I am a Fullstack developer.</i>
+<i> I am a Fullstack developer</i>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -25,7 +25,7 @@ Connect with me
 
 <p align="center">
   <a href="mailto:newruppo123@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-  <a href="www.linkedin.com/in/rupan555"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://www.linkedin.com/in/rupan555"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://discordapp.com/users/985734636573442058"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
   <a href="https://medium.com/@newruppo123"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
 </p>
