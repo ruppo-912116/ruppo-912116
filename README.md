@@ -8,7 +8,7 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXB2eDh0bDNpdXlsaHFncmV6b
 Rupan Chaulagain
 </h1>
 
-<i> I am a backend developer with fair amount of frontend knowledge(Nextjs). I mostly work with Django and Spring boot based on requirements.</i>
+<i> I am a Fullstack developer.</i>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
