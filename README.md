@@ -28,14 +28,4 @@ Connect with me
   <a href="www.linkedin.com/in/rupan555"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://discordapp.com/users/985734636573442058"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
   <a href="https://medium.com/@newruppo123"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
-  <a href="https://stackoverflow.com/users/20894489/andrew-jordan"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a>
-  <a href="https://www.producthunt.com/@andrew_jordan3"><img src="https://img.icons8.com/ios-glyphs/96/product-hunt.png" alt="producthunt"/></a>
 </p>
-
-
-<h2>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2VhbXdtbDFhOHlheXhkY2R4NnpjZDVzaGViejJocjNtNHNsZzlpdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CwTvSiWflgCGKgz5eb/giphy.gif" width="40"/> 
-Contributions
-</h2>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ruppo-912116)](https://github.com/ruppo-912116/github-profile-trophy)
